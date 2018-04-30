@@ -1,0 +1,125 @@
+@media (max-width: 600px) {
+ .logo{
+    width:10vh;
+}
+  }
+
+.slogan{
+   margin-top: 5px; 
+}
+
+.redes{
+   margin-top: 40px; 
+}
+
+barra{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+i{
+    margin-top: -18px;
+}
+
+.grupoBarnavS{
+ margin-top: 0px;   
+}
+
+img[class*="img"]{
+   
+    width: 100%;
+    margin: 1rem;
+    
+}
+
+.img3{
+   width:  88% !important;
+}
+
+
+.img4, .img5, .img6{
+    width: 46.8% !important;
+}
+
+@media (max-width: 600px) {
+ .img4, .img5, .img6{
+    width: 88% !important;
+}
+  }
+
+@media (max-width: 600px) {
+ .img1, .img2{
+    width: 88% !important;
+}
+  }
+
+
+.img-p1{
+    width:95% !important;
+}
+
+
+.img-p1R{
+    margin-top: 70px !important;
+}
+
+.txt-p1{
+    text-align: justify;
+    padding-left: 25px !important;
+    padding-right: 40px !important;
+}
+
+.txt-p1R{
+    margin-top: 70px;
+    padding-left: 25px !important;
+    text-align: justify;
+}
+
+.cp1{
+    box-shadow: none;
+    
+}
+
+.txt-datoP1-1{
+    margin-top: -10px;
+}
+
+.icoP{
+    margin-top: 5px;
+}
+
+@media (max-width: 600px) {
+ .perfil-autor{
+    text-align: center;  
+}
+  }
+
+.txt_autor{
+    padding: 40px!important;
+}
+
+.foto-autor{
+margin-top: 34px !important;
+width: 31% !important;    
+}
+
+.contenedor-general{
+    position: absolute;
+    z-index: 1;
+    background-image:url(../images/aguacate1.jpg);
+    background-attachment: fixed;
+    background-repeat:repeat;
+    background-size: cover;
+    
+}
+
+.card-general{
+    width: 85%;
+    margin-left: 10%;
+    background-color: rgb(255, 255, 255, 0.5);
+    background-size: cover;
+    background-repeat:repeat;
+    height: 100%;
+}
+
+

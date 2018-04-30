@@ -1,0 +1,102 @@
+.contenedor-general{
+    background-image: url(../images/cuba.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar{
+    height: 10%;
+    background-color:rgb(148, 203, 231, 0.8);
+    margin-bottom: 0px; 
+}
+
+.btn{
+    background-color: rgb(175, 55, 113, 0.8);
+    border: none;
+    color: white;
+}
+
+.logo-img{
+    width: 10vw;
+    opacity: 1;
+}
+
+.titulo{
+    margin-top: 3%;
+}
+
+.redes-sociales{
+    margin-top: 8%;
+}
+
+.contenido{
+ background-color: rgb(148, 203, 231, 0.5);
+
+}
+
+.jumbotron-img1{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contenedor_public1{
+   background-color: rgb(255, 170, 0, 0.8);  
+}
+
+.public-titulo{
+    color: aliceblue;
+    padding-left: 60px;
+    text-align: left;
+    min-height: 60px;
+    background: #3B0B39;
+    opacity: 0.9;
+}
+
+.sub-t{
+    padding-top: 20px;
+}
+
+.jumbotron_txt{
+    color: black;
+    padding: 2em;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.comentar{
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.btn-comentar{
+    margin-top: -3px;
+    margin-bottom: 10px;
+    margin-right: 7%;
+}
+
+.jumbotron-img2{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.buscador{
+    margin-top: 1%;
+    
+}
+
+.busca{
+    margin-left: 2px;
+}
+
+.btn-buscar{
+    margin-top: 5px;
+    margin-right: 40px;
+}
+
+.lista{
+    margin-top: 10px;
+}

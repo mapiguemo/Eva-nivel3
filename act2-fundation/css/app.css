@@ -1,0 +1,68 @@
+.contenedor_gral{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    background-image:url(../images/pan.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover; 
+}
+
+.contenedor{
+    
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-left: 10%;
+    width: 80%;
+    border-color: transparent;
+}
+.titulo{
+    font-size: 7vw;
+}
+
+.slogan{
+    font-size: 2vw;
+    color: #666666;
+    margin-top: -4vw;
+    margin-left: 8.3vw;
+}
+
+.autor{    
+    color: black;
+    margin-top: -1vw;
+    margin-left: 13%;
+}
+
+.linea1{
+border-color: #ffffff !important;
+border: solid 1px;
+}
+
+.barra_vertical{
+position: absolute;
+float:right;
+margin-left: 28vw;
+margin-top: -7vw;    
+border-left: 2px solid #ffffff; 
+width:1px;
+height:10vw;
+}
+.step{
+    color: #ffffff;
+}
+
+.columna-izq{
+    /*background-color: rgba(216, 137, 113, 0.8) !important;*/
+    border-color: transparent;
+}
+
+.columna-der{
+    background-color: rgba(204, 157, 114, 0.8) !important;
+    border-color: transparent;
+}
+
+.subtP1{
+    font-size: 2vw;
+    color: #353535;
+}
+
+
